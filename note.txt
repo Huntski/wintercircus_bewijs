@@ -1,0 +1,5 @@
+Instructions:
+    url + ?request=run
+        sets boolean to true
+    url + ?request=reset
+        resets boolean to false
